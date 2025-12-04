@@ -1,4 +1,4 @@
-import { SalesRadarDashboard } from "@/components/sales-radar-dashboard"
+import { SalesRadarDashboard } from "@/components/ui/sales-radar-dashboard"
 
 export default function Home() {
   return <SalesRadarDashboard />
